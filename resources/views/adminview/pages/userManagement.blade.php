@@ -7,7 +7,7 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th>ID</th>
+                    <th>IDS</th>
                     <th>Name</th>
                     <th>Email</th>
                     <th>Created At</th>
